@@ -1,0 +1,13 @@
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\bin\Debug\netcoreapp3.1\lab12_9.exe
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\bin\Debug\netcoreapp3.1\lab12_9.deps.json
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\bin\Debug\netcoreapp3.1\lab12_9.runtimeconfig.json
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\bin\Debug\netcoreapp3.1\lab12_9.runtimeconfig.dev.json
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\bin\Debug\netcoreapp3.1\lab12_9.dll
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\bin\Debug\netcoreapp3.1\lab12_9.pdb
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\obj\Debug\netcoreapp3.1\lab12_9.csprojAssemblyReference.cache
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\obj\Debug\netcoreapp3.1\lab12_9.AssemblyInfoInputs.cache
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\obj\Debug\netcoreapp3.1\lab12_9.AssemblyInfo.cs
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\obj\Debug\netcoreapp3.1\lab12_9.csproj.CoreCompileInputs.cache
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\obj\Debug\netcoreapp3.1\lab12_9.dll
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\obj\Debug\netcoreapp3.1\lab12_9.pdb
+C:\Users\KOMP\source\repos\lab12_9\lab12_9\obj\Debug\netcoreapp3.1\lab12_9.genruntimeconfig.cache
